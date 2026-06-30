@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Al Neville Hall">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1F4D"/>
+      <stop offset="100%" stop-color="#123A73"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <circle cx="200" cy="155" r="72" fill="#F5F7FA" opacity="0.92"/>
+  <ellipse cx="200" cy="340" rx="110" ry="95" fill="#F5F7FA" opacity="0.92"/>
+  <text x="200" y="395" text-anchor="middle" fill="#C99A2E" font-family="Georgia, serif" font-size="22" font-weight="600">Replace with headshot</text>
+</svg>
